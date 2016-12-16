@@ -1,0 +1,1 @@
+# VCG-DUTH-Word-Spotting-by-Example
